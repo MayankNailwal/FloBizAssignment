@@ -1,7 +1,7 @@
 # FloBizAssignment
 Assignment for FloBiz : Vought Showcase
 
-Changes made on mayank_dev branch :
+Changes made on mayank branch :
 
 1. Replace UIPageControl with SegmentedProgressBar (provided in the zip file) at the top of the screen.
 2. Remove swipe gestures; instead, automatically show the next member when a segment's progress is complete.
